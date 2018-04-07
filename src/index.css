@@ -1,0 +1,11 @@
+.btn-calculator {
+  width: 50px;
+  margin: 5px;
+}
+
+#screen {
+  width: 231px;
+  height: 40px;
+  text-align: right;
+  padding: 10px;
+}
